@@ -1,22 +1,18 @@
 # Tubes-Struktur-Data-Lelang-Online
-Implementasi Binary Search Tree dan Multi Linked List (MLL-02) pada studi kasus Lelang Barang Online menggunakan C++.
 
-# Topik
+## Topik
 Lelang Online
 
-# Anggota Kelompok
-- Mario Satya Febrian
-- Muhammad Gavino Indra Putra
-
-# Sistem Lelang Barang Online
-
 ## Deskripsi
-Aplikasi pengelolaan lelang barang online
-menggunakan bahasa C++.
+Aplikasi pengelolaan lelang barang online menggunakan bahasa C++.
 
 ## Struktur Data
 - Multi Linked List (MLL-02)
 - Binary Search Tree (BST)
+
+## Anggota Kelompok
+- Mario Satya Febrian
+- Muhammad Gavino Indra Putra
 
 ## Fitur
 1. Mengelola peserta.
